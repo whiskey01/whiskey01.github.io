@@ -28,7 +28,7 @@ twitter_username:
 github_username:  whiskey01
 
 # Build settings
-theme: tactile
+remote_theme: pages-themes/tactile
 plugins:
   - jekyll-feed
 
